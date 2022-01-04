@@ -18,6 +18,24 @@ I was able to get the model to predict the violent activity with 94% accuracy af
     </item>
     
     <item>
+      <title>Project IV: Home Surveillance System</title>
+      <link>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</guid>
+      <description>Created a tool that recognizes unauthorized human movements using OpenCV and classification models. Process the frames and apply background subtraction and object detection model stream the results to web browser developed using flask and Django. Implemented motion detector algorithm that detects motion by form of background subtraction.   Illustration of home Surveillance   Link to Github respository</description>
+    </item>
+    
+    <item>
+      <title>Project V: Background matting</title>
+      <link>https://isandeep4.github.io/Sandeep_Portfolio/post/project5/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://isandeep4.github.io/Sandeep_Portfolio/post/project5/</guid>
+      <description>Our matting network generate trimaps automatically. First we uses pretrained semantic segmentation model to predict trimaps without human intervention and then, the trimap along with RGb image are fed into the matting network to produce alpha matting.   Illustration of background matting   Link to Github respository</description>
+    </item>
+    
+    <item>
       <title>Project I: EDA of Amazon best selling books</title>
       <link>https://isandeep4.github.io/Sandeep_Portfolio/post/project1/</link>
       <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
@@ -33,15 +51,6 @@ I was able to get the model to predict the violent activity with 94% accuracy af
       
       <guid>https://isandeep4.github.io/Sandeep_Portfolio/post/project3/</guid>
       <description>Created a tool that recognizes human hand movements using classification models. run the model in Unity to perform character animation based on the output of the model. Used teachable machine for training image classification model and imported the model to a local repo Implemented different hand gesture in real-time by using OpenCV. send the data to unity platform using socket module - configured animation   Illustration of hand gesture recognition in Unity   Link to Github respository</description>
-    </item>
-    
-    <item>
-      <title>Project IV: Home Surveillance System</title>
-      <link>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</guid>
-      <description>Created a tool that recognizes unauthorized human movements using OpenCV and classification models. Process the frames and apply background subtraction and object detection model stream the results to web browser developed using flask and Django. Implemented motion detector algorithm that detects motion by form of background subtraction.   Illustration of home Surveillance   Link to Github respository</description>
     </item>
     
     <item>
