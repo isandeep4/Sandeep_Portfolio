@@ -36,6 +36,15 @@ I was able to get the model to predict the violent activity with 94% accuracy af
     </item>
     
     <item>
+      <title>Project IV: Home Surveillance System</title>
+      <link>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://isandeep4.github.io/Sandeep_Portfolio/post/project4/</guid>
+      <description>Created a tool that recognizes unauthorized human movements using OpenCV and classification models. Process the frames and apply background subtraction and object detection model stream the results to web browser developed using flask and Django. Implemented motion detector algorithm that detects motion by form of background subtraction.   Illustration of home Surveillance   Link to Github respository</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://isandeep4.github.io/Sandeep_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
